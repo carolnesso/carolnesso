@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on some college projects.
 - 🌱 I’m currently learning Clojure
 - ⚡ Fun fact: I'm a Kung Fu instructor and I know how to perform first aid if necessary 😁
-
+</br>
  <div>
   <a href="https://github.com/carolnesso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carolnesso&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
