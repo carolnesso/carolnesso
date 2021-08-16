@@ -11,7 +11,7 @@
 </div>
   
   <div style="display: inline_block"><br>
-  <img align="right" alt="Carol-hi" height="200" width="200" src="https://cdn.discordapp.com/attachments/728071531447713854/876829346243969044/me-gifmaker.gif">
+  <img align="right" alt="Carol-hi" height="128" width="128" src="https://cdn.discordapp.com/attachments/728071531447713854/876829346243969044/me-gifmaker.gif">
 </div>
   
  <div>
