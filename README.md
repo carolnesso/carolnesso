@@ -1,7 +1,7 @@
 ### Oii, eu sou Ana Carolina, mas pode me chamar Carol 👋
 #### Hi there, I'm Ana Carolina, but you can call me Carol 👋 
 - 🔭 I’m currently working on some college projects.
-- 🌱 I’m currently learning Clojure
+- 🌱 I’m currently learning Dart and Flutter
 - ⚡ Fun fact: I'm a Kung Fu instructor and I know how to perform first aid if necessary 😁
 </br>
  <div style="display: inline_block"><br>
